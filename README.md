@@ -4,3 +4,5 @@
 ![Static Badge](https://img.shields.io/badge/License-MIT-Green)
 
 some personal little scripts 
+
+- [B站直播弹幕 +1](bilibili-dm-plus1.user.js)：斗鱼式弹幕 +1，悬停冻结单条直播弹幕并一键复读，支持全屏。
