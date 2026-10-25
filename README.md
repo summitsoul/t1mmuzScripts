@@ -5,4 +5,5 @@
 
 some personal little scripts 
 
+- [HLTV 宽屏重排](HLTV-宽屏重排.user.js)：去掉 hltv.org 两侧广告后自动重排页面，宽屏不再空出两大块。
 - [B站直播弹幕 +1](bilibili-dm-plus1.user.js)：斗鱼式弹幕 +1，悬停冻结单条直播弹幕并一键复读，支持全屏。
